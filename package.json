@@ -1,0 +1,15 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "Various implementations of algorithms in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/"
+  },
+  "author": "Fernando A. Maule",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.1.1"
+  }
+}
